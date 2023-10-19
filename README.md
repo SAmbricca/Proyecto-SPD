@@ -30,7 +30,7 @@ https://www.tinkercad.com/things/hQJ2FbbTdeM?sharecode=k_4B6cy1MBkjQ8rDKuGfSpQG3
 
 ## Descripción
 Se añadió una fotoresistencia a la segunda parte del proyecto.
-La fotoresistencia detecta la intensidad de la luz que el arduino recibe. En base a esta intensidad, se modificara el brillo de los displays.
+La fotoresistencia detecta la intensidad de la luz que el arduino recibe. En base a esta intensidad, se modificará el brillo de los displays.
 
 ## :robot: Link a la tercera parte
 https://www.tinkercad.com/things/ah6izHFt7Qk?sharecode=Q5CEUSWxt1ublBDTk703Kj9ALq5wnlrfiPtFN0p1FRI
