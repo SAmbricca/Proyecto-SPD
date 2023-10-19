@@ -34,3 +34,12 @@ La fotoresistencia detecta la intensidad de la luz que el arduino recibe. En bas
 
 ## :robot: Link a la tercera parte
 https://www.tinkercad.com/things/ah6izHFt7Qk?sharecode=Q5CEUSWxt1ublBDTk703Kj9ALq5wnlrfiPtFN0p1FRI
+
+## Cuarta parte - Cambiando funcionalidad del switch
+![Tinkercad](./img/CuartaParte.png)
+
+## Descripción
+Ahora el switch mostrara los numeros primos o apagara los displays.
+
+## :robot: Link a la cuarta parte
+https://www.tinkercad.com/things/3arCK2YrkUd?sharecode=D-NrwriiOC8sVAT2Tgq6r4C2p26N9GPI4WvPZThSo_Q
